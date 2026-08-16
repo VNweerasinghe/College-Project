@@ -1,0 +1,38 @@
+body {
+  background-color: #f7f9fc;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.hero-card {
+  border: 0;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+}
+
+.card {
+  border: 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+.table-responsive {
+  border-radius: 10px;
+}
+
+.form-section {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.badge-status {
+  font-size: 0.85rem;
+  padding: 0.45em 0.8em;
+}
+
+.page-title {
+  margin-bottom: 1.2rem;
+}
